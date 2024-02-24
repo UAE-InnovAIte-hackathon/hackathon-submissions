@@ -66,7 +66,7 @@ https://www.uae-innovaite.com/
 
 Follow the steps to submit your project in the hackathon:
 
-** Only one submission per team **
+* **Only one submission per team**
 
 > * Only one of your team members need to crate a submission
 
