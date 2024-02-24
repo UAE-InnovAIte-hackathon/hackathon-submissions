@@ -6,6 +6,8 @@
 
 This competition was created as a way to promote students, especially from underrepresented backgrounds in STEM, to delve into the emerging field of AI headfirst and start creating projects that positively impact the community around them.
 
+https://www.uae-innovaite.com/
+
 ## Timeline
 
 * **Start Date and Time:** 1st March 2024 at 2:00 PM 
