@@ -9,44 +9,56 @@ This competition was created as a way to promote students, especially from under
 ## Timeline
 
 * **Start Date and Time:** 1st March 2024 at 2:00 PM 
-* **Start Date and Time:** 3rd March 2024 at 11:00 AM 
+* **End Date and Time:** 3rd March 2024 at 11:00 AM 
 
 ## Prizes
 
 * **1st Prize**
 
->* Cash worth $500
->* XYZ Hackathon Swags
+>* Cash worth 2000 AED
+>* 2500 AED in Hale Education rewards
 
 
 * **2nd Prize**
 
->* Cash worth $300
->* XYZ Hackathon Swags
+>* Cash worth 1500 AED
+>* 1500 AED in Hale Education rewards
 
 * **3rd Prize**
 
->* Cash worth $100
->* XYZ Hackathon Swags
+>* Cash worth 1000 AED
+>* 1000 AED in Hale Education rewards
+
+* **Best project by a majority Female team**
+
+>* Cash worth 1000 AED
+>* 1000 AED in Hale Education rewards
+
+* **Best project by a majority Emirati Team**
+
+>* Cash worth 1000 AED
+>* 1000 AED in Hale Education rewards
 
 ## Judging Parameters
 
-1. Project Completeness and Functionality *(25%)*
+1. Uniqueness and creativity *(15%)*
+   
+> * How original is the idea? Has it been done before?
+
+2. Impact on Education *(20%)*
+> * How does this impact education?
+> * Does it benefit the stakeholder it is designed for?
+
+3. Project Completeness and Functionality *(35%)*
 
 > * Does the project stand as an individual end-to-end product?
 > * Is it a functioning solution that can scale in the real world?
 
-2. Creativity in Design *(25%)*
+4. User interface *(10%)*
+> * How easy to use and friendly is the interface with the program?
 
-> * Does the project bring innovations in design and create comfortable user experiences?
-
-3. Innovation in Idea *(25%)*
-
-> * Does the project attempt to solve a previously unsolved problem?
-
-4. Social Impact *(25%)*
-
-> * Does the project have an impact on people's lives at a social level?
+5. Presentation - Up to 5 minutes + questions - *(20%)*
+> * This should include an overview of your idea, and a demo of the project in action. 
 
 ## How To Submit Your Project?
 
@@ -66,6 +78,6 @@ https://user-images.githubusercontent.com/31401437/170713948-5bfe0c35-e1aa-4eeb-
 
 ## Rules and Code of Conduct
 
-All participants must agree to the [Rules](RULES.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to participate in the Hackathon.
+All participants must agree to the [Code of Conduct](CODE_OF_CONDUCT.md) to participate in the Hackathon.
 
 ---
