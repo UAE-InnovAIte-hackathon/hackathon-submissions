@@ -66,6 +66,10 @@ https://www.uae-innovaite.com/
 
 Follow the steps to submit your project in the hackathon:
 
+** Only one submission per team **
+
+> * Only one of your team members need to crate a submission
+
 * Visit the **Issues** tab in the respository and click on **New Issue**
 <img width="939" alt="image" src="https://user-images.githubusercontent.com/31401437/170703361-5194ebb5-6938-4a25-abef-25ea4c60ae0b.png">
 
